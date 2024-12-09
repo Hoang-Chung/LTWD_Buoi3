@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\bin\Debug\btvn_buoi3.exe.config
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\bin\Debug\btvn_buoi3.exe
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\bin\Debug\btvn_buoi3.pdb
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\obj\Debug\btvn_buoi3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\obj\Debug\btvn_buoi3.Form1.resources
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\obj\Debug\btvn_buoi3.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\obj\Debug\btvn_buoi3.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\obj\Debug\btvn_buoi3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\obj\Debug\btvn_buoi3.exe
+C:\Users\ADMIN\source\repos\btvn_buoi3\btvn_buoi3\obj\Debug\btvn_buoi3.pdb
